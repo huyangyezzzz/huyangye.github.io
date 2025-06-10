@@ -6,7 +6,7 @@ NVS is a cross-platform utility for switching between different versions and for
 
 This tool is obviously inspired by other node version manager tools, especially [**nvm**](https://github.com/creationix/nvm), from which it borrows a lot of ideas and some command-line syntax.
 
-## Setup
+## Setup1111
 Following are basic setup instructions. [For more details and options for setting up NVS, refer to the Setup page.](doc/SETUP.md)
 
 ### Windows
