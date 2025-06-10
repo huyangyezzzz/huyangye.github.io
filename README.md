@@ -1,4 +1,4 @@
-# NVS (Node Version Switcher)
+# 胡杨烨(Node Version Switcher)
 
 [![Build Status: Mac + Linux](https://travis-ci.org/jasongin/nvs.svg?branch=master)](https://travis-ci.org/jasongin/nvs) [![Build status: Windows](https://ci.appveyor.com/api/projects/status/p0mo0nobkf0ws7ie/branch/master?svg=true)](https://ci.appveyor.com/project/jasongin/nvs)
 
